@@ -1,0 +1,2 @@
+empt={}
+print(empt)
