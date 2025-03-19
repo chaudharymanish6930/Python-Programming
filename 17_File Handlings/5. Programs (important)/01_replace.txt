@@ -1,0 +1,16 @@
+
+# before data....
+Hi!, Everyone 
+ we are learning file handlings in python
+using java
+i Like java programminng!
+java is a good programming language
+
+# After DATa....
+Hi!, Everyone 
+ we are learning file handlings in python
+using python
+i Like python programminng!
+python is a good programming language
+
+
