@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 hello!
+=======
+hello!
+>>>>>>> 85a1649 (first)
 duniya walo 

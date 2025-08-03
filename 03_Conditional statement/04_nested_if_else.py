@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 a=int(input("enter the value of a:"))
 b=int(input("enter the value of b:"))
 c=int(input("enter the value of c:"))
@@ -10,4 +11,18 @@ else:
     if b>c:
        print(b,"is greatest")
     else:
+=======
+a=int(input("enter the value of a:"))
+b=int(input("enter the value of b:"))
+c=int(input("enter the value of c:"))
+if a>b:
+    if a>c:
+        print(a,"is greatest")
+    else:
+        print(c,"is greatest")
+else:
+    if b>c:
+       print(b,"is greatest")
+    else:
+>>>>>>> 85a1649 (first)
         print(c,"is greatest")

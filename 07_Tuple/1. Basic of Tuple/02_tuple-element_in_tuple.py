@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 a=(1,2,3)
 b=(4,5,6)
 c=(a,b)
@@ -8,4 +9,16 @@ print(d)
 print(d[5])
 print(d[4])
 print(d[3])
+=======
+a=(1,2,3)
+b=(4,5,6)
+c=(a,b)
+print(c)
+
+d=(23,33,43,c,a,(a,b))
+print(d)
+print(d[5])
+print(d[4])
+print(d[3])
+>>>>>>> 85a1649 (first)
 print(d[2])
