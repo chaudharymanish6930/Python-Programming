@@ -7,7 +7,7 @@ new_list2=[i**2 for i in list]
 print(list)
 print(new_list)
 print(new_list1)
-=======
+======= 
 list=[2,4,6,8,10]
 new_list=[i*2 for i in list if i%2==0]
 new_list1=[i+2 for i in list]
@@ -16,5 +16,5 @@ new_list2=[i**2 for i in list]
 print(list)
 print(new_list)
 print(new_list1)
->>>>>>> 85a1649 (first)
+>>>>>>> 85a1649 (first) 
 print(new_list2)
