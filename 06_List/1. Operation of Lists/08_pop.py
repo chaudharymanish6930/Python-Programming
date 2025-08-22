@@ -1,16 +1,7 @@
-<<<<<<< HEAD
 my_list=[23,"anish","rohiit",12,90,70]
 print(my_list.pop(-2))
 print(my_list.pop(-1))
 # print(my_list.pop(-2))
 print(my_list.pop(3),my_list)
 my_list.pop()
-=======
-my_list=[23,"anish","rohiit",12,90,70]
-print(my_list.pop(-2))
-print(my_list.pop(-1))
-# print(my_list.pop(-2))
-print(my_list.pop(3),my_list)
-my_list.pop()
->>>>>>> 85a1649 (first)
 print(my_list)
