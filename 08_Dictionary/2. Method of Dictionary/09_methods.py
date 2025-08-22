@@ -1,6 +1,6 @@
 my_dict = {"name": "Alice", "age": 25, "city": "New York"}
 print(my_dict)  # Output: {'name': 'Alice', 'age': 25, 'city': 'New York'}
-ṇ
+
 my_dict["age"] = 26
 print(my_dict)  # Output: {'name': 'Alice', 'age': 26, 'city': 'New York'}
 
