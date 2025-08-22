@@ -1,20 +1,6 @@
-<<<<<<< HEAD
 hello!!
 I am manish choudhary
 I want or become a indian officer
 Dear students, in-spite of several instructions,  still the attendance is very low...this is not good...Again & again I am reminding you to plz attend all th
 e classes... especially the 1st lecture and 2nd half classes. **NOTE: As per University Norm, this is mandatory to maintain minimum of 75% (
-    All medical and other leaves are in rest 25%) in any case. **
-
-
-=======
-hello!!
-I am manish choudhary
-I want or become a indian officer
-Dear students, in-spite of several instructions,  still the attendance is very low...this is not good...Again & again I am reminding you to plz attend all th
-e classes... especially the 1st lecture and 2nd half classes. **NOTE: As per University Norm, this is mandatory to maintain minimum of 75% (
-    All medical and other leaves are in rest 25%) in any case. **
-
-
->>>>>>> 85a1649 (first)
-    
+    All medical and other leaves are in rest 25%) in any case.     

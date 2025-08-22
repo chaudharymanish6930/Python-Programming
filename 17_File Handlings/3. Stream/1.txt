@@ -1,7 +1,2 @@
-<<<<<<< HEAD
 hellona is my love
 # krishna
-=======
-hellona is my love
-# krishna
->>>>>>> 85a1649 (first)

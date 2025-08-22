@@ -1,13 +1,5 @@
-<<<<<<< HEAD
 india
 australia
 england
 america
 brazil
-=======
-india
-australia
-england
-america
-brazil
->>>>>>> 85a1649 (first)

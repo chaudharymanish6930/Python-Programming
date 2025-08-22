@@ -1,9 +1,3 @@
-<<<<<<< HEAD
 hello!!
 I'm manish choudhary
 from Uttar Pradesh
-=======
-hello!!
-I'm manish choudhary
-from Uttar Pradesh
->>>>>>> 85a1649 (first)
