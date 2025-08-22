@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Creating a bytes object
 b = bytes([65, 66, 67, 68])
 
@@ -9,7 +8,7 @@ print(mv[1])  # Output: 66 (ASCII of 'B')
 # Slicing without copying data
 sub_mv = mv[1:3]
 print(bytes(sub_mv))  # Output: b'BC'
-=======
+
 # Creating a bytes object
 b = bytes([65, 66, 67, 68])
 
@@ -20,4 +19,4 @@ print(mv[1])  # Output: 66 (ASCII of 'B')
 # Slicing without copying data
 sub_mv = mv[1:3]
 print(bytes(sub_mv))  # Output: b'BC'
->>>>>>> 85a1649 (first)
+

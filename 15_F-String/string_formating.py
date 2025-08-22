@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 #formating string
 letter ="hey my namme is {} and i am from {}"
 country="india"
@@ -8,7 +8,7 @@ print(letter.format(country,name))
 
 print(f"hey my name is {name} and i am from {country}")
 
-=======
+
 #formating string
 letter ="hey my namme is {} and i am from {}"
 country="india"
@@ -17,5 +17,3 @@ name="manish"
 print(letter.format(country,name))
 
 print(f"hey my name is {name} and i am from {country}")
-
->>>>>>> 85a1649 (first)
