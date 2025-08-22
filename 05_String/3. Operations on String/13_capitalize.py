@@ -1,4 +1,3 @@
-
 x="manish Choudhary"
 print(x.capitalize()) 
 

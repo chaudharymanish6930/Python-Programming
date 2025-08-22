@@ -1,4 +1,3 @@
-
 message = "Hello, Python Programming!"
 
 print("Uppercase:", message.upper())   # Convert to uppercase
