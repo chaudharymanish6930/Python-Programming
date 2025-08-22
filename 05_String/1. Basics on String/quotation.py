@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 name='manish choudhary'
 friend="chetan sharma"
 anotherfriend="india"
@@ -13,7 +13,7 @@ print(apple)
 
 #another quotes used in the strings
 banana='he said, \" i want to eat an apple'
-=======
+
 name='manish choudhary'
 friend="chetan sharma"
 anotherfriend="india"
@@ -28,5 +28,5 @@ print(apple)
 
 #another quotes used in the strings
 banana='he said, \" i want to eat an apple'
->>>>>>> 85a1649 (first)
+
 print(banana)
