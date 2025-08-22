@@ -1,4 +1,3 @@
-
 #formating string
 letter ="hey my namme is {} and i am from {}"
 country="india"
