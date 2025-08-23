@@ -8,4 +8,8 @@ print(s1)
 s1.add((5,6))  # tuple can be added
 print(s1)
 #s1.add([7,8])  # list cannot be added
-#print(s1)  
+#print(s1) 
+# s1.add({9:10})  # dictionary cannot be added
+# print(s1)
+# s1.add({11,12})  # set cannot be added
+# print(s1) 
