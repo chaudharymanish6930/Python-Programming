@@ -10,6 +10,8 @@ ep2={
     566:90
 }
 
-# ep1.update(ep2)
+ep1.update(ep2)
+print(ep1) 
+# remove last item from the dictionary
 ep1.popitem()
 print(ep1)
